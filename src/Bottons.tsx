@@ -1,5 +1,5 @@
 import React from 'react';
-import s from './Bottons.module.css';
+import s from './Buttons.module.css';
 export type ButtonCompType = {
     title: string
     clickOnButton: () => void
